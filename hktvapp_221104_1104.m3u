@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="日テレNEWS24" tvg-logo="https://i.imgur.com/XQnIwzp.png",日テレNEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-name="NHK World (Chi. subtitle)" tvg-logo="https://i.imgur.com/XQnIwzp.png",NHK World (Chi. subtitle)
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC Australia News" tvg-logo="https://i.imgur.com/XQnIwzp.png",ABC Australia News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-name="FashionTV Bikini" tvg-logo="https://i.imgur.com/XQnIwzp.png",FashionTV Bikini
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-name="kBSWorld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",kBSWorld
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-name="NewsmaxTV" tvg-logo="https://i.imgur.com/XQnIwzp.png",NewsmaxTV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 tvg-name="RT News" tvg-logo="https://i.imgur.com/XQnIwzp.png",RT News
+https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+#EXTINF:-1 tvg-name="Euro news" tvg-logo="https://i.imgur.com/XQnIwzp.png",Euro news
+https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Al-Jazeera English" tvg-logo="https://i.imgur.com/XQnIwzp.png",Al-Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="Channel NewsAsia" tvg-logo="https://i.imgur.com/XQnIwzp.png",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-name="FOX Sports Australia" tvg-logo="https://i.imgur.com/XQnIwzp.png",FOX Sports Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/XQnIwzp.png",NBC News Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 tvg-name="FOX News Now" tvg-logo="https://i.imgur.com/XQnIwzp.png",FOX News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MBC" tvg-logo="https://i.imgur.com/XQnIwzp.png",MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV5plus" tvg-logo="https://i.imgur.com/XQnIwzp.png",CCTV5plus
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://i.imgur.com/XQnIwzp.png",CCTV5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-name="Bloomberg Plus" tvg-logo="https://i.imgur.com/XQnIwzp.png",Bloomberg Plus
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 tvg-name="DW English" tvg-logo="https://i.imgur.com/XQnIwzp.png",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-name="Fail Army" tvg-logo="https://i.imgur.com/XQnIwzp.png",Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 tvg-name="Bloody Disgusting (1080p)" tvg-logo="https://i.imgur.com/XQnIwzp.png",Bloody Disgusting (1080p)
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd011302f4d7da05d4bf3",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://i.imgur.com/XQnIwzp.png",MTV
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1 tvg-name="DNTV电影" tvg-logo="https://i.imgur.com/XQnIwzp.png",DNTV电影
+https://dmtv-viziosc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="SPOTV 1080p" tvg-logo="https://i.imgur.com/XQnIwzp.png",SPOTV 1080p
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1 tvg-name="日本映画" tvg-logo="https://i.imgur.com/XQnIwzp.png",日本映画
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="hallmarkmovies" tvg-logo="https://i.imgur.com/XQnIwzp.png",hallmarkmovies
+https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://i.imgur.com/XQnIwzp.png",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-name="USA ABC News Live" tvg-logo="https://i.imgur.com/XQnIwzp.png",USA ABC News Live
+https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
